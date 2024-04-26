@@ -1,0 +1,15 @@
+.main-part a:hover {
+  color: white !important;
+  background-color: green;
+}
+.part {
+  width: 100px;
+  height: 100px;
+}
+.text-part {
+  text-align: justify;
+}
+
+.custome-color {
+  color: #045512f1;
+}
